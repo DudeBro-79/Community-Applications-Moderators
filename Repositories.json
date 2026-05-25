@@ -4574,5 +4574,10 @@
 		"url": "https://github.com/ProphetSe7en/unraid-templates",
 		"name": "ProphetSe7en's Repository",
 		"profile": "https://forums.unraid.net/profile/89667-prophetse7en/"
-	}
-]
+	},
+	{
+	  "url": "https://github.com/DudeBro-79/storcli-dw",
+      "profile" : "https://github.com/DudeBro-79",
+	  "name":"DudeBro-79's Repository" 
+    }
+
